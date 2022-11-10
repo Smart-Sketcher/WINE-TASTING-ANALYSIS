@@ -1,6 +1,8 @@
 # WINE-TASTING-ANALYSIS.
 # INTRODUCTION
+* Dataset containing ~130k wine reviews published to Wine Enthusiast, including taster name, wine price, variety, score, country, county, vineyard, etc.
 # OBJECTIVES
+* to determine the wine with the best taste as reviewed by different observers.
 # QUESTION FOR ANALYSIS.
 * How many country were involved in the production of the wines
 * How many of the wines has no designations.
